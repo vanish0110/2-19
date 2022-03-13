@@ -1,0 +1,17 @@
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\дз\программирование2семестр\лрС#\работа 2\1,2\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
